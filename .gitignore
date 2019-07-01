@@ -102,3 +102,11 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# ignore data files
+*.json
+*.csv
+*.pkl
+
+#ignore Misc_Files
+Misc_Files/
